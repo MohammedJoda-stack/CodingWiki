@@ -1,0 +1,12 @@
+/home/muhammad/RiderProjects/CodingWiki/CodingWiki_Model/bin/Debug/net7.0/CodingWiki_Model.deps.json
+/home/muhammad/RiderProjects/CodingWiki/CodingWiki_Model/bin/Debug/net7.0/CodingWiki_Model.dll
+/home/muhammad/RiderProjects/CodingWiki/CodingWiki_Model/bin/Debug/net7.0/CodingWiki_Model.pdb
+/home/muhammad/RiderProjects/CodingWiki/CodingWiki_Model/obj/Debug/net7.0/CodingWiki_Model.csproj.AssemblyReference.cache
+/home/muhammad/RiderProjects/CodingWiki/CodingWiki_Model/obj/Debug/net7.0/CodingWiki_Model.GeneratedMSBuildEditorConfig.editorconfig
+/home/muhammad/RiderProjects/CodingWiki/CodingWiki_Model/obj/Debug/net7.0/CodingWiki_Model.AssemblyInfoInputs.cache
+/home/muhammad/RiderProjects/CodingWiki/CodingWiki_Model/obj/Debug/net7.0/CodingWiki_Model.AssemblyInfo.cs
+/home/muhammad/RiderProjects/CodingWiki/CodingWiki_Model/obj/Debug/net7.0/CodingWiki_Model.csproj.CoreCompileInputs.cache
+/home/muhammad/RiderProjects/CodingWiki/CodingWiki_Model/obj/Debug/net7.0/CodingWiki_Model.dll
+/home/muhammad/RiderProjects/CodingWiki/CodingWiki_Model/obj/Debug/net7.0/refint/CodingWiki_Model.dll
+/home/muhammad/RiderProjects/CodingWiki/CodingWiki_Model/obj/Debug/net7.0/CodingWiki_Model.pdb
+/home/muhammad/RiderProjects/CodingWiki/CodingWiki_Model/obj/Debug/net7.0/ref/CodingWiki_Model.dll
